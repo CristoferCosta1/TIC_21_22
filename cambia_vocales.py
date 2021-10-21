@@ -5,7 +5,7 @@ def cambia_vocales():
         if(palabra[cont]=='a'):
            print('u')
         else:
-            if(palabra[cont]=='u'):
+            if(palabra[cont]=='e'):
                 print('u')
             else:
                 if(palabra[cont]=='i'):
