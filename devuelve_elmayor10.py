@@ -4,6 +4,6 @@ def devuelve_el_mayor10():
         num=input("Dime un numero: ")
         if(num>mayor):
             mayor=num
-    print("MAYOR= "+str(mayor))
+        print("MAYOR= "+str(mayor))
 devuelve_el_mayor10()
     
