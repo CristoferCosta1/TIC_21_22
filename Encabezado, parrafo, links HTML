@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Enlaces HTML</h1>
+<p>Los enlaces HTML son definidos con una etiqueta.</p>
+<a href="https://zaragoza.salesianos.edu/colegio/">This is a link</a>
+</body>
+</html>
