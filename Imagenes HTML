@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Imágenes</h2>
+<p>Las imágenes en HTML son definidas con la etiqueta 'img'.</p>
+
+<img src="https://cd1.taquilla.com/data/images/t/a9/colegio-salesiano-nuestra-senora-del-pilar.jpg" alt="Colegio Salesianos Nuestra Señora del Pilar." width="433" height="268">
+
+</body>
+</html>
